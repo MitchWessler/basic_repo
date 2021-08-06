@@ -1,0 +1,24 @@
+*{ 
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    color: purple;
+    padding: 32px;
+}
+.TheBox{
+    display: inline-block;
+    vertical-align: top;
+    height: 285px;
+    width: 285px;
+    margin: 25px;
+}
+#ch_red{
+    background-color: red;
+}
+#ch_blue{
+    background-color: royalblue;
+}
+#ch_green{
+    background-color: green;
+}
