@@ -5,13 +5,16 @@
 h1{
     color: purple;
     padding: 32px;
+    border-style: solid;
+    border-color: black;
+    border-width: 15px;
 }
 .TheBox{
     display: inline-block;
     vertical-align: top;
-    height: 285px;
-    width: 285px;
-    margin: 25px;
+    height: 320px;
+    width: 320px;
+    margin: 35px;
 }
 #ch_red{
     background-color: red;
